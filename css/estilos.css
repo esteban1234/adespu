@@ -44,7 +44,7 @@ nav ul .selector:hover{
   color: #F28C00;
 }
 .banner{
-    height: 480px;
+    height: 550px;
     background: url('../img/banner2.jpg');
     background-size: cover;
     /*background-position: center center;*/
@@ -52,7 +52,82 @@ nav ul .selector:hover{
     background-attachment: fixed;
     overflow: hidden;
 }
+.banner p{
+  padding: 20px;
+  background-color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  color: #D0D3D4;
+  font-size: 50px;
+  width: 65%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 17%;
+}
+.algunos{
+  background-color: #F9F9F9;
+  width: 100%;
+  overflow: hidden;
+  padding: 5% 0% 5% 0%;
+  border-bottom: 3px inset #F28C00;
+}
+.color{
+  color:#F28C00;
+}
+.texto{
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
 
+.algunos2{
+  /*background-color: #F9F9F9;*/
+  width: 100%;
+  overflow: hidden;
+  padding: 5% 0% 1% 0%;
+}
+.tamano{
+  font-size: 18px;
+}
+.banner2{
+    height: 250px;
+    background: url('../img/banner3.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.fondo{
+  /*background-color: rgba(255, 255, 255, .5);*/
+  background-color: rgba(0, 0, 0, .5);
+  overflow: hidden;
+  height: 250px;
+}
+.banner2 p{
+  padding: 20px;
+  /*background-color: #000000;*/
+  /*background-color: */
+  font-family: 'Montserrat', sans-serif;
+  color: #fff;
+  font-size: 22px;
+  width: 67%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 4%;
+}
+.btn-outline {
+    background-color: transparent;
+    color: inherit;
+    transition: all .5s;
+}
+
+.btn-danger.btn-outline {
+  font-family: 'Montserrat', sans-serif;
+  color: #F28C00;
+}
+
+.btn-danger.btn-outline:hover {
+    color: #fff;
+}
 /*--------------FOOTER----------*/
 footer{
   width: 100%;
@@ -76,7 +151,7 @@ footer p{
 .ir-arriba {
   display:none;
   padding:20px;
-  background:#3B0700;
+  background:#F28C00;
   font-size:20px;
   color:#fff;
   cursor:pointer;
@@ -85,7 +160,13 @@ footer p{
   right:20px;
 }
 /*------------------nosotros----------*/
-
+.header2{
+  /*background-color: #3A0700;*/
+  overflow: hidden;
+  border-bottom: 3px inset #F28C00;
+  /*border: 2px red solid;*/
+  /*padding: 5%;*/
+}
 /*-------------------servicios---------------*/
 
 
