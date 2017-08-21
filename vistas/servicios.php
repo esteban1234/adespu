@@ -31,25 +31,19 @@
             <img src="../img/01.jpg"
             class="img-responsive">
             <h2 class="text-center">Gestión Social</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p class="text-center">Nos encargamos de todos los trámites relacionados con la gestión del personal. Le informamos de toda la actualidad social relacionada con su actividad para reducir los costes sociales.</p>
           </div>
           <div class="col-md-4">
             <img src="../img/02.jpg"
             class="img-responsive">
             <h2 class="text-center">Gestión Fiscal</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p class="text-center">Como empresa o particular, elija las soluciones que más se adapte a sus necesidades. Declaraciones fiscales, auditoría y asesoramiento fiscal, asistencia en caso de inspección fiscal, optimización fiscal, etc.</p>
           </div>
           <div class="col-md-4">
             <img src="../img/03.jpg"
             class="img-responsive">
             <h2 class="text-center">Gestión Contable</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p class="text-center">El objetivo principal de la contabilidad consiste en gestionar sus cuentas anuales. Colaboramos con Usted con el fin de recuperar todos los elementos necesarios a su realización, llevando las cuentas, repasando su contabilidad, etc.</p>
           </div>
         </div>
       </div>
@@ -62,25 +56,19 @@
             <img src="../img/04.jpg"
             class="img-responsive">
             <h2 class="text-center">Gestión Administrativa</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p class="text-center">comprende la representación de nuestros clientes en todo tipo de procedimientos contenciosos relacionados con la actividad del Estado. </p>
           </div>
           <div class="col-md-4">
             <img src="../img/05.jpg"
             class="img-responsive">
             <h2 class="text-center">Auditoria Financiera</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p class="text-center">examina a los estados financieros y a través de ellos las operaciones financieras realizadas por el ente contable, con la finalidad de emitir una opinión técnica y profesional.</p>
           </div>
           <div class="col-md-4">
             <img src="../img/06.jpg"
             class="img-responsive">
             <h2 class="text-center">Servicios a los Particulares</h2>
-            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
-              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
-              <br>Ut enim ad minim veniam, quis nostrud</p>
+            <p class="text-center">Nuestra asesoría le acompaña durante su instalación en cualquier entidad federativa y durante los trámites administrativos del día a día para usted y toda su familia.</p>
           </div>
         </div>
       </div>
