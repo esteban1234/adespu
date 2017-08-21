@@ -3,12 +3,11 @@
 <body>
 
 
-  <div class="linea"></div>
-<header>
-  <figure class="logo pull-left">
-    <img src="../img/matsuv.png" alt="Matsuv" class="img-responsive">
+ <header class="header2">
+  <figure class="logo pull-right">
+    <img src="../img/adespu.png" alt="Adespu" class="img-responsive"> 
   </figure>
-  <nav class="pull-right">
+  <nav class="pull-left">
     <ul>
       <a class="selector" href="../index.php">INICIO</a>
       <a class="selector" href="nosotros.php">NOSOTROS</a>
@@ -17,69 +16,79 @@
     </ul>
   </nav>
 </header>
-
-<div class="bannern">
-    <p class="pull-left q">
-      Servicios
-    </p>
-    <div class="pull-right q1">
-        <a href="../index.php">Index</a> <span class="divider">/</span>
-        <a id="active1" href="servicios.php">Servicios</a>
-    </div>
+  <div class="banners">
+    <p>Ofrecemos servicios de calidad</p>
   </div>
+<div class="col-md-12 afcl">
+  <h1 class="text-center">Nuestras Áreas de Competencia</h1> <br>
+  <p class="text-center texto texto2">ADESPU SOLUCIONES EMPRESARIALES ofrece una gran variedad de servicios y trabaja con gran profesionalidad para obtener éxito con cada cliente.</p>
+</div>
 
-  <div class="section serv">
+<div class="section">
       <div class="container">
-      <h1 class="text-center text-danger">Nuestros servicios</h1>
-      <p class="text-center text-danger">Todos estos servicios, son parte del sistema de gestión de nuestros clientes, es decir, todas nuestras soluciones se integran a través de los procesos del negocio.</p><br><br>
         <div class="row">
           <div class="col-md-4">
-            <img src="../img/05.jpg"
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
             class="img-responsive">
-            <h3 class="text-center text-danger">Consultoría en Administración</h3>
-            <p class="text-center">Guiamos a las empresas en su evolución y crecimiento, facilitando una migración suave y eficaz desde un modelo primario centrado a otro fundamentado en una organización formalizada.</p>
+            <h2 class="text-center">Gestión Social</h2>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
           </div>
           <div class="col-md-4">
-            <img src="../img/04.jpg"
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
             class="img-responsive">
-            <h3 class="text-center text-danger">Apoyo para efectuar trámites legales</h3>
-            <p class="text-center">Realizamos toda clase de gestión y trámites ante las diferentes dependencias. Todos los servicios y trámites pueden contratarse por períodos o bien por única ocasión.</p>
+            <h2 class="text-center">Gestión Fiscal</h2>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
           </div>
           <div class="col-md-4">
-            <img src="../img/06.jpg"
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
             class="img-responsive">
-            <h3 class="text-center text-danger">Servicios de Contabilidad </h3>
-            <p class="text-center">Están diseñados para que se constituyan en un verdadero soporte administrativo, sobre el cual el empresario o comerciante pueda realizar netamente su actividad productiva, con la confianza que cuenta con una empresa de especialistas que se encargará de hacer las tareas contables oportunamente y dentro de las disposiciones legales vigentes.</p>
+            <h2 class="text-center">Gestión Contable</h2>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
           </div>
         </div>
-        <br><br>
+      </div>
+    </div> <br><br>
+
+    <div class="section">
+      <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <img src="../img/01.jpg"
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
             class="img-responsive">
-            <h3 class="text-center text-danger">Auditoría Financiera</h3>
-            <p class="text-center">Guiamos a las empresas en su evolución y crecimiento, facilitando una migración suave y eficaz desde un modelo primario centrado a otro fundamentado en una organización formalizada.</p>
+            <h2 class="text-center">Gestión Administrativa</h2>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
           </div>
           <div class="col-md-4">
-            <img src="../img/02.jpg"
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
             class="img-responsive">
-            <h3 class="text-center text-danger">Auditoria Legal</h3>
-            <p class="text-center">Realizamos toda clase de gestión y trámites ante las diferentes dependencias. Todos los servicios y trámites pueden contratarse por períodos o bien por única ocasión.</p>
+            <h2 class="text-center">Auditoria Financiera</h2>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
           </div>
           <div class="col-md-4">
-            <img src="../img/03.jpg"
+            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
             class="img-responsive">
-            <h3 class="text-center text-danger">Estrategia Fiscal</h3>
-            <p class="text-center">Están diseñados para que se constituyan en un verdadero soporte administrativo, sobre el cual el empresario o comerciante pueda realizar netamente su actividad productiva, con la confianza que cuenta con una empresa de especialistas que se encargará de hacer las tareas contables oportunamente y dentro de las disposiciones legales vigentes.</p>
+            <h2 class="text-center">Servicios a los Particulares</h2>
+            <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
+              <br>sed eiusmod tempor incidunt ut labore et dolore magna aliqua.
+              <br>Ut enim ad minim veniam, quis nostrud</p>
           </div>
         </div>
       </div>
     </div>
 
-    <center class="scrollflow -slide-bottom" style="margin-top: 0%; margin-bottom: 5%;">
-      <a class="boton2" href="contacto.php">CONTÁCTANOS</a>
-    </center>
-
+    <div style="text-align: center; margin-top: 5%; margin-bottom: 5%;">
+      <a class="btn btn-warning btn-outline btn-lg" href="contacto.php">CONTACTANOS</a>
+    </div>
 
 <span class="ir-arriba"><i class="fa fa-chevron-up" aria-hidden="true"></i></span>
 <?php include 'pie.php' ?>

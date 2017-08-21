@@ -167,7 +167,90 @@ footer p{
   /*border: 2px red solid;*/
   /*padding: 5%;*/
 }
+
+.bannern{
+    height: 550px;
+    background: url('../img/nosotros.jpg');
+    background-size: cover;
+    /*background-position: center center;*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.bannern p{
+  padding: 20px;
+  background-color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  color: #D0D3D4;
+  font-size: 35px;
+  width: 65%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 16%;
+}
+.afcl{
+  /*border: 2px red solid;*/
+  margin-top: 5%;
+  padding-bottom: 5%;
+}
+.texto{
+  width: 70%;
+  margin: 0 auto;
+}
+.bannern2{
+  overflow: hidden;
+  border: 1px #F9F9F9 solid;
+  height: 250px;
+  background: url('../img/conta.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+}
+.icono{
+  text-align: center;
+}
 /*-------------------servicios---------------*/
 
-
+.banners{
+    height: 550px;
+    background: url('../img/servicios.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.banners p{
+  padding: 20px;
+  background-color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  color: #D0D3D4;
+  font-size: 35px;
+  width: 55%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 16%;
+}
 /*-----------------contacto-----------------*/
+.bannerc{
+    height: 550px;
+    background: url('../img/contacto.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    /*background-attachment: fixed;*/
+    overflow: hidden;
+}
+.bannerc p{
+  padding: 20px;
+  background-color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  color: #D0D3D4;
+  font-size: 35px;
+  width: 55%;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 16%;
+}
