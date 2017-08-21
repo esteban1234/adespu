@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <?php include 'encabezado2.php' ?>
 <body>
 
@@ -28,7 +28,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/01.jpg"
             class="img-responsive">
             <h2 class="text-center">Gestión Social</h2>
             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
@@ -36,7 +36,7 @@
               <br>Ut enim ad minim veniam, quis nostrud</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/02.jpg"
             class="img-responsive">
             <h2 class="text-center">Gestión Fiscal</h2>
             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
@@ -44,7 +44,7 @@
               <br>Ut enim ad minim veniam, quis nostrud</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/03.jpg"
             class="img-responsive">
             <h2 class="text-center">Gestión Contable</h2>
             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
@@ -59,7 +59,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/04.jpg"
             class="img-responsive">
             <h2 class="text-center">Gestión Administrativa</h2>
             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
@@ -67,7 +67,7 @@
               <br>Ut enim ad minim veniam, quis nostrud</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/05.jpg"
             class="img-responsive">
             <h2 class="text-center">Auditoria Financiera</h2>
             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
@@ -75,7 +75,7 @@
               <br>Ut enim ad minim veniam, quis nostrud</p>
           </div>
           <div class="col-md-4">
-            <img src="http://pingendo.github.io/pingendo-bootstrap/assets/placeholder.png"
+            <img src="../img/06.jpg"
             class="img-responsive">
             <h2 class="text-center">Servicios a los Particulares</h2>
             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisici elit,
