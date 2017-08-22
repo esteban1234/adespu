@@ -32,22 +32,22 @@
       <div class="container">
         <div class="row">
           <div class="col-md-4">
-            <div class="icono">
-              <i class="fa fa-eye fa-5x" aria-hidden="true"></i>
+            <div class="iconos">
+              <i class="fa fa-line-chart fa-5x" aria-hidden="true"></i>
             </div>
             <h2 class="text-center">MISION</h2>
             <p class="text-center">Lograr resultados exitosos y la plena satisfacción de nuestros clientes en todos los servicios ofrecidos, tanto a nivel regional como nacional, garantizando un servicio de calidad, expertos en la materia, confidencialidad y ética en la profesión.</p>
           </div>
           <div class="col-md-4">
-            <div class="icono">
+            <div class="iconos">
               <i class="fa fa-eye fa-5x" aria-hidden="true"></i>
             </div>
             <h2 class="text-center">VISION</h2>
             <p class="text-center">Consolidarnos y posicionarnos como la empresa de mayor prestigio, éxito e innovación, así como ampliar y evolucionar nuestra gama de servicios profesionales.</p>
           </div>
           <div class="col-md-4">
-            <div class="icono">
-              <i class="fa fa-eye fa-5x" aria-hidden="true"></i>
+            <div class="iconos">
+              <i class="fa fa-star-half-o fa-5x" aria-hidden="true"></i>
             </div>
             <h2 class="text-center">VALORES</h2>
             <p class="text-center">

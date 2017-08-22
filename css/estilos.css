@@ -170,7 +170,7 @@ footer p{
 
 .bannern{
     height: 550px;
-    background: url('../img/nosotros.jpg');
+    background: url('../img/nosotros2.jpg');
     background-size: cover;
     /*background-position: center center;*/
     background-repeat: no-repeat;
@@ -208,8 +208,11 @@ footer p{
   background-attachment: fixed;
   
 }
-.icono{
+.iconos{
   text-align: center;
+}
+.iconos i{
+  color: #F28C00;
 }
 /*-------------------servicios---------------*/
 
@@ -233,6 +236,7 @@ footer p{
   margin: 0 auto;
   margin-top: 16%;
 }
+
 /*-----------------contacto-----------------*/
 .bannerc{
     height: 550px;
