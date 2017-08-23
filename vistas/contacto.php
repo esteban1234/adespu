@@ -4,7 +4,7 @@
 
      <header class="header2">
   <figure class="logo pull-right">
-    <img src="../img/adespu.png" alt="Adespu" class="img-responsive"> 
+    <img src="../img/adespu.png" alt="Adespu" class="img-responsive">
   </figure>
   <nav class="pull-left">
     <ul>
@@ -14,6 +14,9 @@
       <a class="selector" id="select" href="contacto.php">CONTACTO</a>
     </ul>
   </nav>
+  <div class="op-menu">
+    <i class="fa fa-bars fa-2x abrir" aria-hidden="true"></i>
+  </div>
 </header>
   <!-- <div class="bannerc">
     <p>Estamos cerca de ti</p>
@@ -25,18 +28,18 @@
 
   <div class="container datos">
 
-    
+
     <div class="row">
-      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
       <div class="offer offer-warning">
         <div class="shape">
           <div class="shape-text">
-            <i class="fa fa-street-view" aria-hidden="true"></i>              
+            <i class="fa fa-street-view" aria-hidden="true"></i>
           </div>
         </div>
         <div class="offer-content">
           <h3 class="lead">
-          Dirección : 
+          Dirección :
           </h3>
           <p>
                  C. 57-B #839 por C. 100-A y C. 104. Col. Las Americas, Mérida, Yucatán. C.P. 97302
@@ -44,16 +47,16 @@
         </div>
       </div>
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
       <div class="offer offer-warning">
         <div class="shape">
           <div class="shape-text">
-            <i class="fa fa-clock-o" aria-hidden="true"></i>              
+            <i class="fa fa-clock-o" aria-hidden="true"></i>
           </div>
         </div>
         <div class="offer-content">
           <h3 class="lead">
-             Horario : 
+             Horario :
           </h3>
           <p>
             Lunes a Viernes de 9 am a 6 pm
@@ -61,16 +64,17 @@
         </div>
       </div>
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+    <div class="clearfix visible-xs visible-sm visible-md "></div>
+    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
       <div class="offer offer-radius offer-warning">
         <div class="shape">
           <div class="shape-text">
-            <i class="fa fa-phone" aria-hidden="true"></i>             
+            <i class="fa fa-phone" aria-hidden="true"></i>
           </div>
         </div>
         <div class="offer-content">
           <h3 class="lead">
-             Teléfono : 
+             Teléfono :
           </h3>
           <p>
             PENDIENTE
@@ -78,16 +82,17 @@
         </div>
       </div>
     </div>
-    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3">
+
+    <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
       <div class="offer offer-warning">
         <div class="shape">
           <div class="shape-text">
-            <i class="fa fa-envelope-open-o" aria-hidden="true"></i>             
+            <i class="fa fa-envelope-open-o" aria-hidden="true"></i>
           </div>
         </div>
         <div class="offer-content">
           <h3 class="lead">
-            Correo : 
+            Correo :
           </h3>
           <p>
             info@adespu.com
@@ -100,37 +105,35 @@
 
 <section id="contact">
       <div class="section-content">
-
         <h3>Escribenos tus comentario, dudas o preguntas, estamos para servirte.</h3>
       </div>
       <div class="contact-section">
       <div class="container">
         <form>
-          <div class="col-md-6 form-line">
+          <div class="col-xs-12 col-md-6 form-line">
               <div class="form-group">
                 <label for="exampleInputUsername">Escribe tu Nombre</label>
-                <input type="text" class="form-control" id="" placeholder="Escribe tu nombre completo">
+                <input type="text" class="form-control" id="txtNOMBRE" placeholder="Escribe tu nombre completo">
               </div>
               <div class="form-group">
                 <label for="exampleInputEmail">Email</label>
-                <input type="email" class="form-control" id="exampleInputEmail" placeholder="Escribe tu Email ">
-              </div>  
+                <input type="email" class="form-control" id="txtCORREO" placeholder="Escribe tu Email ">
+              </div>
               <div class="form-group">
                 <label for="telephone">Teléfono</label>
-                <input type="tel" class="form-control" id="telephone" placeholder="Escribe tu teléfono a 10 digitos">
+                <input type="tel" class="form-control" id="txtTELEFONO" placeholder="Escribe tu teléfono a 10 digitos" required>
               </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-xs-12 col-md-6 text-comentario">
               <div class="form-group">
                 <label for ="description">Comentario</label>
-                <textarea  class="form-control" id="description" placeholder="Escribe tu mensage"></textarea>
+                <textarea  class="form-control" id="txtCOMENTARIO" placeholder="Escribe tu mensage"></textarea>
               </div>
-              <div>
-
-                <button type="button" class="btn btn-default submit"><i class="fa fa-paper-plane" aria-hidden="true"></i> Enviar mensaje</button>
+              <div class="btn-contact">
+                <div id="_AJAX_PRE_"></div>
+                <button type="button" class="btn btn-default submit" onclick="sendCORREO()"><i class="fa fa-paper-plane" aria-hidden="true"></i> Enviar mensaje</button>
               </div>
-              
-          </div>
+            </div>
         </form>
       </div>
     </section>

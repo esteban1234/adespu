@@ -1,0 +1,432 @@
+@media screen and (max-width: 480px){
+
+  /*********************DISEÑO INDEX********************************/
+  header{
+    text-align: center;
+  }
+
+  .logo{
+    float: none !important;
+    margin: auto;
+    width: 50%;
+  }
+
+  nav{
+    margin: auto;
+    width: 100%;
+    float: none !important;
+    display: none;
+  }
+
+  nav ul .selector{
+    border-bottom: .5px solid rgba(0,0,0,0.6);
+    display: block;
+    padding: 15px 5px;
+  }
+
+  .op-menu{
+    position: absolute;
+    top: 40px;
+    right: 30px;
+    cursor: pointer;
+    display: block;
+    z-index: 4;
+  }
+
+  .banner{
+    height: 100%;
+  }
+
+  .banner p{
+    font-size: 18px;
+    font-weight: bold;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin: 20px auto;
+    text-align: center;
+  }
+
+  .color{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .texto{
+    text-align: justify;
+    width: 100%;
+  }
+
+  .banner2{
+    height: 100%;
+  }
+
+  .banner2 .fondo{
+    height: 100%;
+  }
+
+  .banner2 .fondo p{
+    width: 100%;
+    text-align: justify;
+    font-size: 18px;
+  }
+
+  /*********************END DISEÑO INDEX****************************/
+
+  /*********************DISEÑO NOSOTROS********************************/
+  .bannern, .banners{
+    height: 100%;
+  }
+
+  .bannern p, .banners p{
+    width: 95%;
+    margin: 20px auto;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  .afcl h1{
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .iconos i{
+    font-size: 40px;
+  }
+
+  .tit-h2nos, .tit-h2ser{
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .text-pnos, .text-pser{
+    text-align: justify;
+  }
+
+  .br-info{
+    margin-top: 20px;
+  }
+  /*********************END DISEÑO NOSOTROS****************************/
+
+  /*********************DISEÑO CONTACTO********************************/
+  .datos{
+    width: 90%;
+    margin-bottom: 0px !important;
+  }
+
+  .lead{
+    text-align: center;
+    font-weight: bold;
+  }
+
+  #contact{
+    padding-top: 10px;
+    height: 100%;
+  }
+
+  .form-control{
+    font-size: 15px;
+  }
+
+  .section-content h3{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .form-line, .text-comentario{
+    border: 0px;
+    width: 100% !important;
+  }
+
+  .btn-contact{
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .btn-contact button{
+    text-align: center;
+    float: none !important;
+  }
+  /*********************END DISEÑO CONTACTO****************************/
+
+  /*********************DISEÑO FOOTER********************************/
+  footer{
+    height: 100%;
+  }
+
+  footer p{
+    width: 90%;
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+
+  /*********************END DISEÑO FOOTER****************************/
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+  /*********************DISEÑO INDEX********************************/
+  header{
+    text-align: center;
+  }
+
+  .logo{
+    float: none !important;
+    margin: auto;
+    width: 40%;
+  }
+
+  nav{
+    margin: 0px !important;
+    width: 80%;
+    float: none !important;
+    display: none;
+  }
+
+  nav ul .selector{
+    border-bottom: .5px solid rgba(0,0,0,0.6);
+    display: block;
+    padding: 15px 5px;
+  }
+
+  .op-menu{
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    cursor: pointer;
+    display: block;
+    z-index: 4;
+  }
+
+  .banner{
+    height: 100%;
+  }
+
+  .banner p{
+    font-size: 23px;
+    font-weight: bold;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin: 20px auto;
+    text-align: center;
+  }
+
+  .img-soluciones img{
+    margin: auto;
+  }
+
+  .color{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .texto{
+    text-align: justify;
+    width: 100%;
+  }
+
+  .banner2{
+    height: 100%;
+  }
+
+  .banner2 .fondo{
+    height: 100%;
+  }
+
+  .banner2 .fondo p{
+    width: 100%;
+    text-align: justify;
+    font-size: 23px;
+  }
+
+
+  /*********************END DISEÑO INDEX****************************/
+
+  /*********************DISEÑO NOSOTROS********************************/
+  .bannern, .banners{
+    height: 100%;
+  }
+
+  .bannern p, .banners p{
+    width: 95%;
+    margin: 20px auto;
+    font-size: 23px;
+    font-weight: bold;
+  }
+
+  .afcl h1{
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .iconos i{
+    font-size: 45px;
+  }
+
+  .tit-h2nos, .tit-h2ser{
+    font-size: 23px;
+    font-weight: bold;
+  }
+
+  .text-pnos, .text-pser{
+    text-align: justify;
+  }
+
+  .br-info{
+    margin-top: 20px;
+  }
+  /*********************END DISEÑO NOSOTROS****************************/
+
+  /*********************DISEÑO CONTACTO********************************/
+  .datos{
+    width: 90%;
+    margin-bottom: 0px !important;
+  }
+
+  .lead{
+    text-align: center;
+    font-weight: bold;
+  }
+
+  #contact{
+    padding-top: 10px;
+    height: 100%;
+  }
+
+  .form-control{
+    font-size: 18px;
+  }
+
+  .section-content h3{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .form-line, .text-comentario{
+    border: 0px;
+    width: 100% !important;
+  }
+
+  .btn-contact{
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .btn-contact button{
+    text-align: center;
+    float: none !important;
+  }
+  /*********************END DISEÑO CONTACTO****************************/
+
+  /*********************DISEÑO FOOTER********************************/
+  footer{
+    height: 100%;
+  }
+
+  footer p{
+    width: 90%;
+    font-size: 18px;
+    margin-bottom: 8px;
+  }
+
+  /*********************END DISEÑO FOOTER****************************/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+  /*********************DISEÑO INDEX********************************/
+  header{
+    text-align: center;
+  }
+
+  .logo{
+    float: none !important;
+    margin: auto;
+    width: 40%;
+  }
+
+  nav{
+    margin: 0px !important;
+    width: 80%;
+    float: none !important;
+    display: none;
+  }
+
+  nav ul .selector{
+    border-bottom: .5px solid rgba(0,0,0,0.6);
+    display: block;
+    padding: 15px 5px;
+  }
+
+  .op-menu{
+    position: absolute;
+    top: 70px;
+    right: 60px;
+    cursor: pointer;
+    display: block;
+    z-index: 4;
+  }
+
+  .banner p{
+    font-size: 35px;
+    font-weight: bold;
+  }
+
+  .img-soluciones img{
+    margin: auto;
+  }
+
+  .color{
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+  .texto{
+    text-align: justify;
+    width: 100%;
+  }
+
+  .banner2{
+    height: 100%;
+  }
+
+  .banner2 .fondo{
+    height: 100%;
+  }
+
+  .banner2 .fondo p{
+    width: 100%;
+    text-align: justify;
+    font-size: 23px;
+  }
+
+  .br-fila{
+    text-align: center;
+  }
+
+  /*********************END DISEÑO INDEX****************************/
+
+  .datos{
+    width: 90%;
+    margin-bottom: 0px !important;
+  }
+
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+  .logo{
+    margin-right: 10px !important;
+  }
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

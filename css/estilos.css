@@ -19,7 +19,7 @@ header{
   margin: 0% 6% 0% 0%;
   /*margin-left: 5%;*/
   /*border: 2px red solid;*/
-  
+
 }
 nav{
   /*border: 2px red solid;*/
@@ -43,6 +43,11 @@ nav ul .selector:hover{
 #select{
   color: #F28C00;
 }
+
+.op-menu{
+  display: none;
+}
+
 .banner{
     height: 550px;
     background: url('../img/banner2.jpg');
@@ -206,7 +211,7 @@ footer p{
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  
+
 }
 .iconos{
   text-align: center;
@@ -267,7 +272,7 @@ footer p{
 .datos{
   padding: 8% 0% 8% 0%;
 }
-  .shape{    
+  .shape{
     border-style: solid; border-width: 0 70px 40px 0; float:right; height: 0px; width: 0px;
   -ms-transform:rotate(360deg); /* IE 9 */
   -o-transform: rotate(360deg);  /* Opera 10.5 */
@@ -278,13 +283,13 @@ footer p{
   background:#fff; border:1px solid #ddd; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); margin: 15px 0; overflow:hidden;
 }
 .offer:hover {
-    -webkit-transform: scale(1.1); 
-    -moz-transform: scale(1.1); 
-    -ms-transform: scale(1.1); 
-    -o-transform: scale(1.1); 
-    transform:rotate scale(1.1); 
-    -webkit-transition: all 0.4s ease-in-out; 
--moz-transition: all 0.4s ease-in-out; 
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform:rotate scale(1.1);
+    -webkit-transition: all 0.4s ease-in-out;
+-moz-transition: all 0.4s ease-in-out;
 -o-transition: all 0.4s ease-in-out;
 transition: all 0.4s ease-in-out;
     }
@@ -325,7 +330,7 @@ transition: all 0.4s ease-in-out;
   -o-transform: rotate(360deg);  /* Opera 10.5 */
   -webkit-transform:rotate(30deg); /* Safari and Chrome */
   transform:rotate(30deg);
-} 
+}
 .offer-content{
   padding:0 20px 10px;
 }
@@ -362,11 +367,11 @@ transition: all 0.4s ease-in-out;
 }
 
 .section-content{
-  text-align: center; 
+  text-align: center;
 
 }
 #contact{
-    
+
     font-family: 'Teko', sans-serif;
   padding-top: 60px;
   width: 100%;
@@ -374,7 +379,7 @@ transition: all 0.4s ease-in-out;
   background: #F9F9F9; /* fallback for old browsers */
   background: -webkit-linear-gradient(to left, #F9F9F9 , #F6F6F6); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to left, #F9F9F9 , #F6F6F6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    color : #000;    
+    color : #000;
 }
 .contact-section{
   padding-top: 40px;
